@@ -1,0 +1,14 @@
+b28ece0c1a3353583eecfa8b627a6f59 *DESCRIPTION
+674e1807da1556689d8669edb8ed048d *NAMESPACE
+07201e5907602bce5d863b386b9b81ec *R/backports.R
+830541df56b727bf1a328fec15ec9d92 *R/parallel.R
+900037e98d62c5a26794cd650a4606f3 *R/rmd.R
+7a656e035744999b27b70b5ff782469b *R/url_check.R
+d3b7e968317614e4e2404ac421de7143 *R/url_update.R
+dcdc3611dfdc6323581978ff9335a45f *R/utils.R
+f060c3a4c1e6b29f52ae8e00a0037d71 *R/zzz.R
+a256a611547fbc093c2e2dd740ecc9bc *README.md
+a7b006485c1522f8fa67aaafa016bd19 *inst/tools/README.md
+8ac753db85cc894e918b923e93225200 *inst/tools/urltools.R
+9277da0788c10cd29cca247aa17d6284 *man/url_check.Rd
+d228b5ea0cd423ebcd7841209f6d993f *man/url_update.Rd
